@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: palakshramah/docker-kuber:latest
+        image: palaksharmah/docker-kuber:latest
         ports:
         - containerPort: 8080
 ---
