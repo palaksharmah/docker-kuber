@@ -14,7 +14,7 @@ spec:
  spec:
  containers:
  - name: java-app
- image: <dockerhub-username>/java-app:latest
+ image: palaksharmah/docker_kuber
 ---
 apiVersion: v1
 kind: Service
